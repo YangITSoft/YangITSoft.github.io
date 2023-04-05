@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+td
+{
+	vertical-align:top;
+}
+body
+{
+	background: url("../Logo/back.jpg")
+}
+#head
+{
+	width: 1920px;
+	
+	height: 50px;
+	
+	background: #FFFFFF;
+}
+#logo
+{
+	width: 220px;
+	
+	height: 50px;
+	
+	background: url("../Logo/Logo200.jpg")
+}
+#meau
+{
+	width: 1700px;
+	
+	height: 50px;
+}
+#main
+{
+	width: 1920px;
+	
+	height: 1010px;
+	
+	background: #FFFFFF;
+}
+#lift
+{
+	width: 200px;
+	
+	height: 1010px;
+}
+#center
+{
+	width: 1720px;
+	
+	height: 1010px;
+}
+#end
+{
+	width: 1920px;
+	
+	height: 20px;
+	
+	background: #FFFFFF;
+}
+#copy
+{
+	width: 1920px;
+	
+	height: 20px;
+}
+a
+{
+	background: #FFFFFF;
+	
+	color: #16A9DD;
+	
+	text-decoration: none;
+}
+.center
+{
+	text-align: center;
+	
+	color: #000000;
+}
+#endcopy
+{
+	font-size: 10px;
+}
+.head
+{
+	font-size: 30px;
+}
+#mme
+{
+	height: 50px;
+}
