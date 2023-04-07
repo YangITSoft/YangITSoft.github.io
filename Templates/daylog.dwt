@@ -30,7 +30,9 @@
 			<!-- InstanceBeginEditable name="main" -->
 		  <tr id="main">
 				<td id="lift">
-					<a href=""></a>
+					<p class="center">2023年4月</p>
+					<p class="center"><a href="../daylog/20230405.html">5日</a></p>
+					<p class="center"><a href="../daylog/20230407.html">7日</a></p>
 			  </td>
 				<td id="center">
 					<!-- TemplateBeginEditable name="data" -->data
@@ -43,7 +45,7 @@
 		<table>
 			<tr id="end">
 				<td id="copy">
-					<p id="endcopy" class="center">Copyright&copy;Yangsoft 东埠中学 杨昊 版权所有 <a href="mailto:happyssheep2023@outlook.com">联系我</a></p>
+					<p id="endcopy" class="center">Copyright&copy;2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yangsoft 东埠中学 杨昊 版权所有 <a href="mailto:happyssheep2023@outlook.com">联系我</a></p>
 				</td>
 			</tr>
 		</table>
