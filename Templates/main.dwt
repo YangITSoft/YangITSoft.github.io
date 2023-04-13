@@ -2,13 +2,32 @@
 <html>
 <head>
 <meta charset="utf-8">
-<!-- TemplateBeginEditable name="doctitle" -->
-<title>无标题文档</title>
-<!-- TemplateEndEditable -->
-<!-- TemplateBeginEditable name="head" -->
-<!-- TemplateEndEditable -->
+		<link rel="icon" href="../logo/logomain.jpg">
+		<link href="../CSS/html.css" rel="stylesheet" type="text/css">
+		<link href="../CSS/meau.css" rel="stylesheet" type="text/css">
+		<link href="../CSS/type.css" rel="stylesheet" type="text/css">
+		<!-- TemplateBeginEditable name="doctitle" -->
+		<title>Yangsoft</title>
+		<!-- TemplateEndEditable -->
+		<!-- TemplateBeginEditable name="head" -->
+		<!-- TemplateEndEditable -->
 </head>
+	<body>
+		<div id="all">
+			<div id="head">
+				<div id="logo" class="inline">	
+				</div>
+				<div class="inline">
+					<h1><a href="../index.html" class="head">main</a></h1>
+				</div>
+			</div>
+			<div id="cont">
+				
+				<div id="end">
 
-<body>
-</body>
+				</div>
+			</div>
+			
+		</div>
+	</body>
 </html>
