@@ -1,48 +1,14 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <!-- TemplateBeginEditable name="doctitle" -->
-        <title>Yangsoft</title>
-        <!-- TemplateEndEditable -->
-        <link href="../CSS/main.css" rel="stylesheet" type="text/css">
-		
-		<link rel="shortcut icon" href="../Logo/logomain.jpg">
-    <!-- TemplateBeginEditable name="head" -->
-    <!-- TemplateEndEditable -->
-    </head>
-    <body>
-        <table>
-			<tr id="head">
-				<td id="logo">
-				</td>
-				<td id="meau">
-					<div id="mme">
-						<a href="../index.html" class="head">首页</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="../daylog/index.html" class="head">日记</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="../music/index.html" class="head">音乐库</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="../log/index.html" class="head">建站日志</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					</div>
-				</td>
-				
-			</tr>
-			<!-- TemplateBeginEditable name="main" -->
-		  <tr id="main">
-				<td id="lift">
-					
-			  </td>
-				<td id="center">
-				
-				</td>
-			</tr>
-			<!-- TemplateEndEditable -->
-		</table>
-		<table>
-			<tr id="end">
-				<td id="copy">
-					<p id="endcopy" class="center">Copyright&copy;2023&nbsp;&nbsp; Yangsoft 东埠中学 杨昊 版权所有 <a href="mailto:happyssheep2023@outlook.com">联系我</a></p>
-				</td>
-			</tr>
-		</table>
-    </body>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+</body>
 </html>
