@@ -46,8 +46,18 @@ div.inline
 {
 	background: white;
 	width:1920px;
-	height: 1030px;
+	height: 1010px;
 	overflow-y: scroll;
-  	-ms-overflow-style: none;
-  	scrollbar-width: none;
+}
+#end
+{
+	width: 1920px;
+	height: 20px;
+	background: #575757;
+}
+#end p.end
+{
+	font-size: 15px;
+	color: white;
+	text-align: center;
 }
