@@ -1,6 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
-.dropdown {
+.divdown {
   position: relative;
   display: inline-block;
 }
@@ -12,6 +12,6 @@
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   padding: 12px 16px;
 }
-.dropdown:hover .dropdown-content {
+.divdown:hover .dropdown-content {
   display: block;
 }

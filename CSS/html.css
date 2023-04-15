@@ -4,6 +4,10 @@ body
 {
 	margin: 0px;
 }
+p.headp
+{
+	font-size: 20px;
+}
 #all
 {
 	background-color:white;
@@ -13,16 +17,26 @@ body
 }
 #head
 {
-	background: white;
+	background:#C5F0F4;
 	width:1920px;
 	height: 50px;
 }
 #logo
 {
-	background:url("../logo/logo.jpg");
+	background:url("../logo/logo.jpg") no-repeat left center;
 	width: 200px;
 	height: 50px;
 	
+}
+#meau
+{
+	width: 1510px;
+	height: 50px;
+}
+#goust
+{
+	width: 200px;
+	height: 50px;
 }
 div.inline
 {
@@ -34,4 +48,6 @@ div.inline
 	width:1920px;
 	height: 1030px;
 	overflow-y: scroll;
+  	-ms-overflow-style: none;
+  	scrollbar-width: none;
 }
