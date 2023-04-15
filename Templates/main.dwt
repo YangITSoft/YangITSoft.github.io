@@ -23,20 +23,26 @@
 					<div class="divdown">
 					  	<span class="head">产品</span>
 						<div class="dropdown-content">
+							<p><a href="../product/control/index.html">控制台应用</a></p>
+							<p><a href="../product/c++/index.html">C++应用</a></p>
+							<p><a href="../product/headfile/index.html">c++数据头文件</a></p>
 						</div>
 					</div>
 					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					<div class="divdown">
 						<span class="head">文档</span>
 						<div class="dropdown-content">
-							
+							<p><a href="../docs/about/index.html">Yangsoft历史</a></p>
+							<p><a href="../docs/c++/index.html">c++源代码使用</a></p>
+							<p><a href="../docs/control/index.html">控制台应用文档</a></p>
+							<p><a href="../docs/headfile/index.html">c++数据头文件文档</a></p>
 						</div>
 					</div>
 					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					<div class="divdown">
 						<span class="head">服务</span>
 						<div class="dropdown-content">
-							
+							<p> </p>
 						</div>
 					</div>
 					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
